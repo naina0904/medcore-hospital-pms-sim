@@ -1,7 +1,7 @@
 
 class AppointmentSchedulingEngine:
     """
-    Implementation of Appointment Scheduling Engine.
+    Implementation of Appointment Scheduling Engines.
     Generated for ScopeSense Simulation.
     """
     def __init__(self):
